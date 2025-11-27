@@ -1,9 +1,9 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:           </h3>
-<h3>Register Number            </h3>
+<h3>Name:YOGAVARMA.B        </h3>
+<h3>Register Number:2305002029          </h3>
 <H3>Aim:</H3>
 <p>
-    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
+    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic 
 </p>
 <h1>Problem Description</h1>
 <hr>
@@ -15,13 +15,14 @@ The figure below shows a Wumpus world containing one pit and one Wumpus. There i
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/cd6b68dc-c79f-4dcb-8126-04da90d65912)
 
-<center>Wumpus World Representation</center>
+<center>Wumpus World Representation</center> 
 <p>
 This is a python program that uses propositional logic sentences to check which rooms are safe. 
 
 It is assumed that there will always be a safe path that the agent can take to exit the Wumpus world. The logical agent can take four actions: Up, Down, Left and Right. These actions help the agent move from one room to an adjacent room. The agent can perceive two things: Breeze and Stench.
 ## PROGRAM
 ```python
+
 
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
@@ -144,8 +145,8 @@ while(player):
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
 ## OUTPUT
+<img width="403" height="722" alt="image" src="https://github.com/user-attachments/assets/6e82f1da-60db-40e5-b173-af32d376eb96" />
 
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
 
 ## RESULT
 
